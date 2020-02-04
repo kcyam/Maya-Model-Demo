@@ -1,0 +1,1 @@
+All scripts, models, 3rd party software, etc. are in the New Unity Project folder.
